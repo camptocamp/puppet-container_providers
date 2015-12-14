@@ -1,0 +1,34 @@
+{
+  "name": "camptocamp-container_providers",
+  "version": "0.0.1",
+  "author": "Camptocamp",
+  "summary": "Puppet Container providers module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/camptocamp/puppet-container_providers",
+  "project_page": "https://github.com/camptocamp/puppet-container_providers",
+  "issues_url": "https://github.com/camptocamp/puppet-container_providers/issues",
+  "dependencies": [
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "12.04",
+        "14.04"
+      ]
+    },
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "7"
+      ]
+    }
+  ]
+}
