@@ -1,6 +1,6 @@
 {
   "name": "camptocamp-container_providers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Camptocamp",
   "summary": "Puppet Container providers module",
   "license": "Apache-2.0",
@@ -8,6 +8,7 @@
   "project_page": "https://github.com/camptocamp/puppet-container_providers",
   "issues_url": "https://github.com/camptocamp/puppet-container_providers/issues",
   "dependencies": [
+
   ],
   "operatingsystem_support": [
     {
